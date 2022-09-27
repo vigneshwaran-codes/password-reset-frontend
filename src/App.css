@@ -1,0 +1,26 @@
+body{
+min-height: 100vh;
+background: linear-gradient(to top left, #005aa7, #fffde4);
+/* color: #111d4a; */
+color: #161616;
+justify-content: center;
+font-family: 'Work Sans', sans-serif;
+}
+
+.home-card{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home-card-bg{
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav{
+  text-decoration: none;
+  color: #161616;
+}
